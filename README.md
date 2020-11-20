@@ -1,2 +1,2 @@
-# basic_rotation_matrix_for_robic_arm_position
+# basic rotation matrix for robic arm position
 Using  elemental rotation to move vector in space
